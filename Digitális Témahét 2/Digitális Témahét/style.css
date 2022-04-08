@@ -1,0 +1,51 @@
+header{    
+    background-position: center center;
+    height: 350px;
+    background-image: url(https://th.bing.com/th/id/OIP.3QZzr9QZX_2TcY20kG1CMwHaHa?pid=ImgDet&rs=1);
+    width: 200px;
+}
+h1{
+    background-color: rgba(248, 248, 248,0.75);
+    margin-top: 80px;
+    padding-left: 11rem; 
+    font-family: Verdana;   
+    color: #416618;
+    font-weight: bold;
+}
+
+h2{    
+    margin-top: 10px;    
+    color:  #ebb506;
+    border-left: 3px dotted  #416618;
+    font-variant: small-caps;
+    padding: 5px 15px;
+}
+
+h3{    
+    font-weight: bold;
+    color: #894f3b;    
+    text-align: center;
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+}
+
+
+
+
+td,th{
+    text-align: center;
+}
+
+thead>tr:first-child{    
+    letter-spacing: 2px;  
+    text-transform: uppercase;  
+}
+
+.navbar{
+    background-color: #006efd;
+}
+
+p{
+    text-align: justify;
+    text-indent: 15px;
+}
